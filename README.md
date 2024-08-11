@@ -1,0 +1,1 @@
+# Full Stack Inventory Management Next.JS AWS App!
